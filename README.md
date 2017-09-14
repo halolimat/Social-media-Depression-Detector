@@ -1,4 +1,6 @@
-# Social-media Depression Detector (SDD)
+<img src="http://knoesis.org/resources/images/knoesis_depression_logo.jpg" align="right" alt="Knoesis Depression Project Logo" width="250"/>
+
+# Social-media Depression Detector (SDD) 
 This tool allows you to detect depression on social media using the ssToT method introduced in our ASONAM 2017 paper titled [Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9lW-nmEAAAAJ&citation_for_view=9lW-nmEAAAAJ:5nxA0vEk-isC)
 
 ## HOW TO USE ##
