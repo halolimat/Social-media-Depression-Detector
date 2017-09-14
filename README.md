@@ -7,9 +7,7 @@ Follow the steps in the Jupyter Notebook
 
 ## Citing ##
 
-If you do make use of SDD or any of its components please cite the following publication:
+If you do make use of SDD, the depression lexicon, or any of its components please cite the following publication:
 
-[![alt text][image]][hyperlink]
-
-  [hyperlink]: https://scholar.googleusercontent.com/citations?view_op=export_citations&user=9lW-nmEAAAAJ&s=9lW-nmEAAAAJ:5nxA0vEk-isC&citsig=AMstHGQAAAAAWbxAP9iNGWMBzCYhzXVDjtBJKKLMpX5e&hl=en&cit_fmt=0 
-  [image]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BibTeX_logo.svg/2000px-BibTeX_logo.svg.png "BibTex"
+<a href="https://scholar.googleusercontent.com/citations?view_op=export_citations&user=9lW-nmEAAAAJ&s=9lW-nmEAAAAJ:5nxA0vEk-isC&citsig=AMstHGQAAAAAWbxAP9iNGWMBzCYhzXVDjtBJKKLMpX5e&hl=en&cit_fmt=0" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BibTeX_logo.svg/2000px-BibTeX_logo.svg.png" alt="BibTex" style="float:left;width: 150px;"/></a>
