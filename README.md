@@ -11,5 +11,4 @@ Follow the steps in the Jupyter Notebook
 
 If you do make use of SDD, the depression lexicon, or any of its components please cite the following publication:
 
-<a href="https://scholar.googleusercontent.com/citations?view_op=export_citations&user=9lW-nmEAAAAJ&s=9lW-nmEAAAAJ:5nxA0vEk-isC&citsig=AMstHGQAAAAAWcMhN3c-ZQlEYDIhSzfMOefkbvuPxZQi&hl=en&cit_fmt=0" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BibTeX_logo.svg/2000px-BibTeX_logo.svg.png" alt="BibTex" width="100"/></a>
+> Amir Hossein Yazdavar, Hussein S. Al-Olimat, Monireh Ebrahimi, Goonmeet Bajaj, Tanvi Banerjee, Krishnaprasad Thirunarayan, Jyotishman Pathak, and Amit Sheth. "Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media." In Advances in Social Networks Analysis and Mining (ASONAM), 2017 IEEE/ACM International Conference. IEEE, 2017.
