@@ -13,7 +13,7 @@ This work is licensed under GPL-3.0 and CreativesForGood licenses. A copy of the
 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" alt="GPLv3 Logo" width="60" />
-  <img src="https://github.com/halolimat/CreativesForGoodLicense/raw/master/CreativesForGoodLogo2.png" alt="CreativesForGood Logo" width="120" /> 
+  <img src="https://github.com/halolimat/CreativesForGoodLicense/raw/master/CreativesForGoodLogo2.png" alt="CreativesForGood Logo" width="120" style="margin-left: 10px;" /> 
 </p>
 
 ## Citing ##
